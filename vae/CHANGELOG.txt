@@ -1,0 +1,3 @@
+# rev-c4d82b-20260828
+v1.1
+ComfyUI 0.32, turbo lora, 768p 4-15s.

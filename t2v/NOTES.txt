@@ -1,0 +1,3 @@
+# rev-c4d82b-20260828
+MiniMax H3 T2V
+Text-to-video + stereo audio, turbo lora.
